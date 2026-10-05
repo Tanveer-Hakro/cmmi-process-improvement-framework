@@ -12,10 +12,6 @@
   <img alt="Process Improvement" src="https://img.shields.io/badge/Focus-Process%20Improvement-informational">
   <img alt="Visual Notes" src="https://img.shields.io/badge/Format-Visual%20Technical%20Notes-informational">
 </p>
-
-> **Privacy note:** This repository intentionally excludes student names, IDs, instructor names,
-> university details, personal usernames, local file paths, and the original assignment PDF.
-
 ---
 
 ## Overview
