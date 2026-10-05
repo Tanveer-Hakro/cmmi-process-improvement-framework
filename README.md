@@ -12,7 +12,7 @@
   <img alt="Process Improvement" src="https://img.shields.io/badge/Focus-Process%20Improvement-informational">
   <img alt="Visual Notes" src="https://img.shields.io/badge/Format-Visual%20Technical%20Notes-informational">
 </p>
----
+
 
 ## Overview
 
@@ -33,35 +33,6 @@ than reproducing the assignment document.
 - CMMI implementation process
 - Key organizational benefits
 - Reproducible data tables and visualizations
-
----
-
-## Repository Structure
-
-```text
-cmmi-process-improvement-framework/
-├── README.md
-├── assets/
-│   ├── maturity-progression.png
-│   ├── process-capability-concept.png
-│   └── process-areas-by-level.png
-├── data/
-│   ├── maturity_levels.csv
-│   ├── process_areas_by_level.csv
-│   └── implementation_process.csv
-├── docs/
-│   ├── 01-introduction-and-evolution.md
-│   ├── 02-maturity-levels.md
-│   ├── 03-process-areas.md
-│   ├── 04-cmm-vs-cmmi.md
-│   └── 05-implementation-and-benefits.md
-├── scripts/
-│   └── generate_visuals.py
-├── requirements.txt
-└── .gitignore
-```
-
----
 
 ## 1. CMMI at a Glance
 
@@ -256,16 +227,6 @@ python scripts/generate_visuals.py
 ```
 
 The charts will be regenerated in `assets/`.
-
----
-
-## Source-Normalization Note
-
-The public repository is based on the supplied assignment material, but it does **not** reproduce
-the assignment document itself. Formatting and minor spelling/grammar issues were normalized for
-readability while preserving the source's organization and substantive concepts.
-
-No personal or institutional identifying information is included.
 
 ---
 
